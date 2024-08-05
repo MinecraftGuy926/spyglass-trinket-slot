@@ -1,0 +1,15 @@
+{
+    "schemaVersion": 1,
+    "authors": ["MinecraftGuy926"],
+    "environment": "*",
+    "name": "§6Spyglass Trinket Slot",
+    "id": "spyglass_trinket",
+    "version": "1.0",
+    "description": "§aAdds a trinket slot for the spyglass                §fIntended for use with Ok Zoomer",
+    "icon": "pack.png",
+	"contact": {
+    "sources": "https://github.com/MinecraftGuy926/spyglass-trinket-slot",
+    "issues": "https://github.com/MinecraftGuy926/spyglass-trinket-slot/issues"
+},
+    "license": "MIT"
+}
